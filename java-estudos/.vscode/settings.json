@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "editor.codeActionWidget.showHeaders": true,
+    "editor.emptySelectionClipboard": true,
+    "editor.foldingStrategy": "auto",
+    "explorer.compactFolders": false
+}
