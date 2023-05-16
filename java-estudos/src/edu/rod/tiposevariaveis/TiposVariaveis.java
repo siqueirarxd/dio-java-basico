@@ -2,6 +2,7 @@ package edu.rod.tiposevariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args) {
+        
         double salarioMinimo = 2500.00; //uso mais comum de casas flutuantes
         float troco = 25.50F; //float só funciona com o F no final.
         byte idade = 123;
