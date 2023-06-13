@@ -5,3 +5,4 @@ public class MinhaClasse {
         System.out.println("Fui executado pelo terminal.");
     }
 }
+
